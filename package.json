@@ -27,7 +27,7 @@
     },
     "keywords": ["typescript", "test"],
     "author": "hubiqing",
-    "repository": "https://github.com/githbq/hbq-module-boilerplate.git",
+    "repository": "https://github.com/githbq/hbq-learning.git", 
     "engines": {"node": ">=7.6"},
     "license": "MIT"
 }
